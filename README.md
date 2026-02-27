@@ -1,1 +1,1 @@
-# Print_values
+# This is C++ program in which we take input form user and if user enter value from a-z  it will give output small alphabets and if user enter A-Z then it will print Capital alphabet and if user enter numeric value then it will give output Numeric value
